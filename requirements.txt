@@ -1,0 +1,9 @@
+pdfplumber
+pdf2image
+pytesseract
+pillow
+PyMuPDF
+pandas
+openpyxl
+reportlab
+matplotlib
